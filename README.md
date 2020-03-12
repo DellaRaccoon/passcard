@@ -8,8 +8,8 @@ This method lets you create strong, unique passwords for every website that requ
  * Run passcard.py to get a randomly-generated card.png like the one below.
  * Print out your card and carry it in your wallet. Probably also keep a backup somewhere, because you __really__ don't want to lose that.
  * All your passwords will start out the same with the 8-character section at the beginning.
- * Follow that with your secret password afterwards. In theory₁, this part could be the terrible, non-secure password you've already been using everywhere.
- * Use the keyboard cypher to make a unique code for the website/service the password is for.
+ * Follow that with your secret password afterwards. In theory, this part could be the terrible, non-secure password you've already been using everywhere.₁
+ * Use the keyboard cypher to make a unique code for the website/service the password is for and use that as the final part of the password.
 
 ![Example Passcard](/card.png)
 
@@ -17,6 +17,6 @@ For example, if i were making a password for GitHub with the example card above,
  
 It's probably not the ideal solution for everyone, but i thought it was a clever solution that would actually work.
  
-₁ Pro Tip: Just because you *can*, that doesn't mean you *should*.
+₁ Just because you *can*, that doesn't mean you *should*.
 
 Hack-Bold.ttf comes courtesy of https://sourcefoundry.org/hack/
