@@ -17,6 +17,6 @@ For example, if i were making a password for GitHub with the card above, the sit
  
 It's probably not the ideal solution for everyone, but i thought it was a clever solution that would actually work.
  
-₁ Just because you *can*, that doesn't mean you *should*. If someone gets a hold of your card and guesses that your secret is the last 4 digits of your dog, they suddenly have access to everything.
+₁ Just because you *can*, that doesn't mean you *should*. If someone gets a hold of your card and guesses that your secret is the last 4 digits of your dog, they suddenly have access to everything. Also, **do not** write this secret on the card anywhere. That breaks the whole something you have/something you know security thing.
 
 Hack-Bold.ttf comes courtesy of https://sourcefoundry.org/hack/
