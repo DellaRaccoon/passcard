@@ -116,7 +116,7 @@ def generate_image(output_file="card.png"):
     for column in range(row_split[row]):
       current_index += 1
       letter = qwerty[current_index]
-      box_x = column * tile_size
+      box_x = column * tile_size + (row * 35)
       box_y = row * tile_size
       draw_box(box_x, box_y, tile_size, letter, keyboard_map[letter], card)
 

@@ -13,7 +13,7 @@ This method lets you create strong, unique passwords for every website that requ
 
 ![Example Passcard](/card.png)
 
-For example, if i were making a password for GitHub with the card above, the site code would be **H\*Ww.9** and the full password for the site might be **pcX8dh+1Last4DigitsOfMyDogH\*Ww.9**. Using the same card, my password for GrubHub would be **pcX8dh+1Last4DigitsOfMyDogHA.9w.9**.
+Let's use the card above as an example, and say that my secret is **S3tec**. The site code would for GitHub would be **HR\*dto** and the full password for the site might be **pG85^y7sS3tecHR\*dto**. Using the same card, my password for GrubHub would be **pG85^y7sS3tecHPtodto**.
  
 It's probably not the ideal solution for everyone, but i thought it was a clever solution that would actually work.
  
